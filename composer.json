@@ -1,0 +1,12 @@
+{
+    "name": "bin/xyb",
+    "description": "test",
+    "type": "library",
+    "authors": [
+        {
+            "name": "xyb",
+            "email": "766489448@qq.com"
+        }
+    ],
+    "require": {}
+}
